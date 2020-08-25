@@ -1,0 +1,43 @@
+html {
+    overflow-y: scroll;
+}
+
+
+.white-popup-block {
+    background: #FFF;
+    /*padding: 20px 30px;*/
+    text-align: left;
+    max-width: 700px;
+    margin: 40px auto;
+    position: relative;
+    max-width: 700px;
+    margin: 20px auto;
+}
+
+.view-details {
+    background-color: #30c39e;
+    margin-top: -47px !important;
+    color: #FFF;
+    padding:10px 0px;
+    font-size: 17px !important;
+    display: none;
+    margin-bottom: 0px !important;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.typo-grid:hover .view-details {
+    display: block;
+}
+
+.typo-grid:hover img {
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+}
+
+.typo-grid img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+

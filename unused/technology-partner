@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technology Partner • we-cr8 Technologies </title>
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#2aae8d" />
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#2aae8d" />
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#2aae8d" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="p:domain_verify" content="003425645fc5d664126173e33c05e182" />
+    <meta name="viewport" content="width=device-width">
+    <meta name="google-translate-customization" content="1be607a26de53f27-92196adc5e349e1a-gf065f9347d942d4f-14" />
+
+    <!-- SEO -->
+    <link rel="canonical" href="https://www.we-cr8tech.com/technology-partner">
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" />
+    <meta name="author" content="we-cr8 Technologies">
+    <meta name="description" content="we-cr8 has partnered with Technology Leaders to strengthen its capabilities at every step of the development process.">
+    <meta name="keywords" content="we-cr8, Technologies, Website, Mobile, Android, iOS, Software, Application, Designer, Development, Online Examination System, IT Services, IT Service Management, Information Technology, Technical Support, IT Consultant, IT Companies, IT Solutions, Cloud Technology, Cloud Storage Providers, Tech Solutions, Surat, Gujarat, India, Work from home, affiliate marketing, imc, brand, digital marketing, tech news, tech">
+
+    <!-- Social Sites Share -->
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Technology Partner • we-cr8 Technologies" />
+    <meta property="og:image" content="https://www.we-cr8tech.com/assets/images/favicon.ico" />
+    <meta property="og:url" content="https://www.we-cr8tech.com/technology-partner" />
+    <meta property="og:site_name" content="we-cr8 Technologies" />
+    <meta property="og:description" content="we-cr8 has partnered with Technology Leaders to strengthen its capabilities at every step of the development process." />
+    <meta property="og:image:url" content="https://www.we-cr8tech.com/assets/images/favicon.ico" />
+    <meta property="og:image:secure_url" content="https://www.we-cr8tech.com/assets/images/favicon.ico" />
+    <meta property="article:publisher" content="https://www.facebook.com/we-cr8tech/" />
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:title" content="Technology Partner • we-cr8 Technologies" />
+    <meta name="twitter:image" content="https://www.we-cr8tech.com/assets/images/favicon.ico" />
+    <meta name="twitter:url" content="https://www.we-cr8tech.com/technology-partner" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="we-cr8tech" />
+    <meta name="twitter:widgets:new-embed-design" content="on" />
+    <meta name="twitter:widgets:csp" content="on" />
+
+
+    <script src="/assets/js/jquery-2.2.3.min.js?v=1.4"></script>
+    <!-- css files -->
+    <link href="/assets/css/bootstrap.css?v=1.4" rel='stylesheet' type='text/css' />
+    <!-- bootstrap css -->
+    <link href="/assets/css/style.css?v=1.5" rel='stylesheet' type='text/css' />
+    <!-- custom css -->
+    <link href="/assets/css/fontawesome-all.css?v=1.4" rel="stylesheet">
+    <!-- fontawesome css -->
+    <!-- //css files -->
+    <!-- google fonts -->
+    <link href="//fonts.googleapis.com/css?family=Mukta:200,300,400,500,600,700,800&amp;subset=devanagari,latin-ext" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Niramit:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext,thai,vietnamese" rel="stylesheet">
+    <!-- //google fonts -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125857260-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-125857260-1');
+    </script>
+
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    
+    <style>
+        .service-style {
+            width: 100%;
+            background-color: transparent !important;
+        }
+
+            .service-style:hover {
+                background-color: #f1f1f1 !important;
+            }
+
+        .client-style {
+            margin-bottom: 30px;
+        }
+
+        .tags-style {
+            margin-bottom: 10px;
+        }
+
+        .service-active {
+            border-bottom: 3px solid #30c39e !important;
+        }
+
+        .li-footer:hover {
+            background-color: transparent !important;
+        }
+
+        ul.list-agileits-2 li a:hover,
+        .social-iconsv2-2 li a:hover {
+            color: white !important;
+        }
+
+        .social-iconsv2-2 li a,
+        .text-grey {
+            color: #888;
+        }
+
+        .cst-bg {
+            background: url(../../assets/images/cst-bg.jpg);
+            background-repeat: repeat-x;
+            background-position: bottom
+        }
+
+        .cst-bg-light {
+            background-image: url(../../assets/images/cst-bg-light.png) !important;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+        }
+
+        .quote-bg {
+            background-image: url(../../assets/images/quote-background.jpg) !important;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+        }
+
+        .header-shadow {
+            box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 40px;
+        }
+
+        .cst-cookie {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+            z-index: 999;
+        }
+    </style>
+
+    <style type="text/css">
+        /* Paste this css to your style sheet file or under head tag */
+        /* This only works with JavaScript,
+        if it's not present, don't show loader */
+        .no-js #loader {
+            display: none;
+        }
+
+        .js #loader {
+            display: block;
+            position: absolute;
+            left: 100px;
+            top: 0;
+        }
+
+        .cst-loader {
+            position: fixed;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background: url(../../assets/images/cst-gif.gif) center no-repeat #fff;
+        }
+    </style>
+    <script>
+        //paste this code under head tag or in a seperate js file.
+        // Wait for window load
+        $(window).on("load", function () {
+            // Animate loader off screen
+            $(".cst-loader").fadeOut("slow");
+        });
+    </script>
+</head>
+<body>
+    <div class="cst-loader"></div>
+    <!-- header -->
+    <header class="bg-white py-1">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <h1>
+                    <a class="navbar-brand" href="/">
+                        <img height="38" style="margin-top: -4px" src="/assets/images/cst-logo.png?v=1.3" alt="we-cr8 Logo" />
+                        <strong>we-cr8</strong>
+                    </a>
+                </h1>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-lg-4 mr-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="A1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Company
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="/about-us">About Us</a>
+                                <a class="dropdown-item" href="/clients">Clients</a>
+                                <a class="dropdown-item" href="/technology-partner">Technology Partner</a>
+                                <a class="dropdown-item" href="/affiliate-partner">Affiliate Partner</a>
+                                
+                            </div>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link" href="/products">Products</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="A2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Services
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="/services/website-development">Website Development</a>
+                                <a class="dropdown-item" href="/services/mobile-app-development">Mobile App Development</a>
+                                <a class="dropdown-item" href="/services/graphics-designing">Graphics Designing</a>
+                                <a class="dropdown-item" href="/services/software-development">Software Development</a>
+                                <a class="dropdown-item" href="/services/cloud-services">Cloud Services</a>
+                                <a class="dropdown-item" href="/services/helpline">Help Line</a>
+                                <a class="dropdown-item" href="/services"><span style="background-color: #323648;color:white;border-radius: 50px;padding: 0px 20px;font-size: 17px;width: 100%;">Explore all Services</span></a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/contact-us">Contact</a>
+                        </li>
+                    </ul>
+                    <div class="header-right">
+                        <a href="/hire-us" class="contact">Hire Us</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!-- //header -->
+
+        <!-- banner -->
+        <section class="inner-banner bg-white">
+            <div class="container">
+            </div>
+        </section>
+        <!-- //banner -->
+        <!-- subscribe -->
+        <section>
+            <div class="container pt-3 pb-2">
+                <span class="text-grey">
+                    <a href="/">
+                        <span class="text-grey">Home</span>
+                    </a>                    <span> <i class="fa fa-angle-right" style="font-size:smaller"></i> </span>Technology Partner
+                </span>
+            </div>
+        </section>
+    
+<style>
+    .client-style {
+        margin-bottom: 30px;
+    }
+
+    .grecaptcha-badge {
+        visibility: hidden;
+    }
+</style>
+<!-- about -->
+<section class="about-us py-5 cst-bg">
+    <div class="container py-md-3">
+        <div class="heading mb-5">
+            <h3 class="head">Our Technology Partner</h3>
+            <p class="my-3">
+                we-cr8 has partnered with Technology Leaders to strengthen its capabilities at every step of the development process. This empowers us to provide effective, faster and unparalleled services to our Clients.
+            </p>
+        </div>
+    </div>
+</section>
+<!-- about -->
+<!-- single page -->
+<section class="single py-5">
+    <div class="container py-md-3">
+        <div class="row typo-grids mt-5">
+            <div class="typo-grid col-lg-3 col-xs-6 col-sm-6 col-6 client-style">
+                <div class="bg-light py-4 pl-4">
+                    <div class="container">
+
+                        <div class="row">
+                            <div class="col-md-12 pl-0 text-center">
+                                <img src="/assets/images/partner/iRoid.png?v=1.3" alt="iRoid Solutions" />
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="typo-grid col-lg-3 col-xs-6 col-sm-6 col-6 client-style">
+                <div class="bg-light py-4 pl-4">
+                    <div class="container">
+
+                        <div class="row">
+                            <div class="col-md-12 pl-0 text-center">
+                                <img src="/assets/images/partner/XRStudio.png?v=1.3" alt="XR Studio" />
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="typo-grid col-lg-3 col-xs-6 col-sm-6 col-6 client-style">
+                <div class="bg-light py-4 pl-4">
+                    <div class="container">
+
+                        <div class="row">
+                            <div class="col-md-12 pl-0 text-center">
+                                <img src="/assets/images/partner/BytezTech.png?v=1.3" alt="BytezTech" />
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- //single page -->
+<!-- Contact -->
+<section class="contact py-5 cst-bg-light">
+    <div class="container py-md-3">
+        <div class="contact-form">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="heading">
+                        <h3 class="head text-center">Join Today</h3>
+                        <p class="my-3 head text-center">
+                            please send us joining letter by filling in the form.
+                        </p>
+                    </div>
+                    <div class="contact-form mt-5">
+                        <div class="row">
+                            <div class="col-lg-7 col-md-10 mx-auto">
+                                <form role="form" name="contactform" id="contactform">
+                                    <div class="form-group">
+                                        <label>Name</label>
+                                        <input type="text" class="form-control required bg-light" id="txtname" placeholder="Enter Name" name="name" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Email</label>
+                                        <input type="text" class="form-control required bg-light" id="txtemail" placeholder="Enter Email" name="email" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Mobile</label>
+                                        <input type="text" class="form-control required bg-light" id="txtmobile" placeholder="Enter Mobile" name="mobile" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Message</label>
+                                        <textarea name="issues" class="form-control required bg-light" id="txtmessage" cols="30" rows="5" placeholder="Enter Your Message Here"></textarea>
+                                        <small>
+                                            This site is protected by reCAPTCHA and the Google
+                                            <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a> and
+                                            <a href="https://policies.google.com/terms" target="_blank">Terms of Service</a> apply.
+                                        </small>
+                                    </div>
+
+                                    <center>
+
+                                        <div id="message"></div>
+                                    </center>
+                                    <button type="button" id="btnSend" class="btn btn-default" value="Submit">Submit</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Contact -->
+<script src="https://www.google.com/recaptcha/api.js?render=6LekOvMUAAAAAPiialf3Tb-ba_9UHvv4iDdp4dig"></script>
+
+<script>
+    function Validation() {
+        var valid = true;
+        $(".required").each(function () {
+            if ($.trim($(this).val()) == '') {
+                valid = false;
+                $(this).css({
+                    "border": "1px solid #a94442",
+                    "border-left": "2px solid #a94442"
+                });
+            }
+            else {
+                $(this).css({
+                    "border": "1px solid #3c763d",
+                    "border-left": "2px solid #3c763d"
+                });
+            }
+        });
+        return valid
+    }
+
+    $("#btnSend").click(function () {
+        grecaptcha.execute('6LekOvMUAAAAAPiialf3Tb-ba_9UHvv4iDdp4dig', { action: 'technology' }).then(function (token) {
+        if (Validation()) {
+
+            document.getElementById("message").className = "btn btn-info";
+            document.getElementById("message").innerHTML = "Please wait...";
+
+            var DTORegisterDetail = {
+                'EmailType': "Technology",
+                'Name': $('#txtname').val(),
+                'Email': $('#txtemail').val(),
+                'Message': $('#txtmessage').val(),
+                'Mobile': $('#txtmobile').val(),
+                'Subject':"Technology Partner - we-cr8tech.com"
+            }
+            $.ajax({
+                url: '/Services/SendMail',
+                type: 'POST',
+                data: JSON.stringify(DTORegisterDetail),
+                contentType: 'application/json; charset=utf-8;',
+                error: function (jqXHR, textStatus, errorThrown) {
+                },
+                success: function (stResponse) {
+                    if ((stResponse) > 0) {
+                        document.getElementById("message").innerHTML = "Message has been sent successfully";
+                        document.getElementById("message").className = "btn btn-success";
+                        $("#contactform input[type='text']").val('');
+                        $("#contactform textarea").val('');
+                    }
+                    else {
+                        document.getElementById("message").innerHTML = "Opps ! something went wrong, Please try again later.";
+                        document.getElementById("message").className = "btn btn-danger";
+                    }
+                }
+            });
+        }
+     });
+});
+</script>
+
+    
+
+    
+
+    <!-- footer -->
+    <footer class="footer bg-dark py-5" style="background-image: url(../../assets/images/world-map.png);background-repeat: no-repeat;background-position: 50%;">
+        <!--subscribe-->
+        <section class="subscribe py-5" style="background-color:transparent;">
+            <div class="container py-md-5" id="subscribeshow">
+                <div class="heading">
+
+                    <h3 class="head text-center">Explore Our services</h3>
+                    <p class="my-3 head text-center">
+                        We're providing 100% accurate and on-time services on the Website, Software, and Mobile Application Development and Design.
+                        <br />
+                        <br />
+                        <a href="/services">
+                            <input type="submit" value="Read more">
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </section>
+        <div class="container py-sm-4">
+            <div class="row">
+                <div class="col-lg-4 mb-lg-0 mb-4 footer-top">
+                    <h2>
+                        <a class="navbar-brand" style="color:#888" href="/">
+                            <img height="38" style="margin-top: -4px" src="/assets/images/cst-logo-grey.png?v=1.3" alt="we-cr8 Logo" />
+                            <strong>we-cr8</strong>
+                        </a>
+                    </h2>
+                    <p class="my-3 head">
+                        
+                        &copy;
+                        <script type="text/javascript">var creditsyear = new Date(); document.write(creditsyear.getFullYear());</script>
+                        we-cr8. all rights reserved<br />
+                        <span> <i class="fab fa fa-phone"></i>&nbsp;+ 91 94296 31293</span>
+                    </p>
+                    <ul class="social-iconsv2 social-iconsv2-2 agileinfo d-flex" style="justify-content: flex-start;">
+                        <li class="li2 li-footer">
+                            <a href="https://url.we-cr8tech.com/facebook" target="_blank">
+                                <i class="fab fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li class="li2 li-footer">
+                            <a href="https://url.we-cr8tech.com/twitter" target="_blank">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li class="li2 li-footer">
+                            <a href="https://url.we-cr8tech.com/instagram" target="_blank">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                        </li>
+                        <li class="li2 li-footer">
+                            <a href="https://url.we-cr8tech.com/pinterest" target="_blank">
+                                <i class="fab fa-pinterest"></i>
+                            </a>
+                        </li>
+                        <li class="li2 li-footer">
+                            <a href="https://url.we-cr8tech.com/linkedin" target="_blank">
+                                <i class="fab fa-linkedin"></i>
+                            </a>
+                        </li>
+                        <li class="li2 li-footer">
+                            <a href="https://url.we-cr8tech.com/whatsapp" target="_blank">
+                                <i class="fab fa-whatsapp"></i>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-sm-3 col-6 footv3-left">
+                    <h6 class="mb-4 cst_title text-grey text-uppercase"><strong>Company</strong></h6>
+                    <ul class="list-agileits list-agileits-2">
+                        <li class="my-2 li2 li-footer">
+                            <a href="/about-us">
+                                About
+                            </a>
+                        </li>
+                        <li class="my-2 li2 li-footer">
+                            <a href="/clients">
+                                Clients
+                            </a>
+                        </li>
+                        <li class="my-2 li2 li-footer">
+                            <a href="/the-logo">
+                                The Logo
+                            </a>
+                        </li>
+
+                        <li class="my-2 li2 li-footer">
+                            <a href="/contact-us">
+                                Contact
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-sm-3 col-6">
+                    <h6 class="mb-4 cst_title text-grey text-uppercase"><strong>Partnership</strong></h6>
+                    <ul class="list-agileits list-agileits-2">
+                        <li class="my-2 li2 li-footer">
+                            <a href="/affiliate-partner">
+                                Affiliate Partner
+                            </a>
+                        </li>
+                        
+                        <li class="mb-2 li2 li-footer">
+                            <a href="/technology-partner">
+                                Technology Partner
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-2 col-sm-3 col-6 mt-sm-0 mt-4">
+                    <h6 class="mb-4 cst_title text-grey text-uppercase"><strong>Resources</strong></h6>
+                    <ul class="list-agileits list-agileits-2">
+                        <li class="my-2 li2 li-footer">
+                            <a href="/products">
+                                Products
+                            </a>
+                        </li>
+                        <li class="my-2 li2 li-footer">
+                            <a href="/services">
+                                Services
+                            </a>
+                        </li>
+                        <li class="my-2 li2 li-footer">
+                            <a href="https://url.we-cr8tech.com/blog">
+                                Blog
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-2 col-sm-3 col-6 mt-sm-0 mt-4">
+                    <h6 class="mb-4 cst_title text-grey text-uppercase"><strong>Quick Links</strong></h6>
+                    <ul class="list-agileits list-agileits-2">
+                        <li class="mb-2 li2 li-footer">
+                            <a href="/hire-us">
+                                Hire Us
+                            </a>
+                        </li>
+                        <li class="mb-2 li2 li-footer">
+                            <a href="/review-us">
+                                Reviews
+                            </a>
+                        </li>
+                        <li class="my-2 li2 li-footer">
+                            <a href="/privacy-policy">Privacy Policy</a>
+                        </li>
+                        <li class="my-2 li2 li-footer">
+                            <a href="/terms-of-use">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- //footer -->
+    <!-- //Header Menu Active -->
+    <script>
+        var current = location.pathname;
+        if (current != "/") {
+            $('.navbar-nav li a').each(function () {
+                var active = 0;
+                var $li = $(this);
+
+                $li.each(function () {
+                    var $this = $(this);
+                    // if the current path is like this link, make it active
+                    if ($this.attr('href').indexOf(current) !== -1) {
+                        //$this.addClass('liactive');
+                        active = 1;
+                    }
+                })
+                $('.dropdown-menu a').each(function () {
+                    var $this = $(this);
+                    // if the current path is like this link, make it active
+                    if ($this.attr('href') == current) {
+                        $this.addClass('liactive2');
+                        $this.parent().parent().addClass('liactive');
+                        $this.href = "#";
+                    }
+                })
+
+                if (active == 1)
+                    $li.parent().addClass('liactive');
+            })
+        }
+    </script>
+    <script>
+        var current = location.pathname;
+        if (current != "/") {
+            $('.services a').each(function () {
+                var active = 0;
+                var $li = $(this);
+
+                $li.each(function () {
+                    var $this = $(this);
+                    // if the current path is like this link, make it active
+                    if ($this.attr('href').indexOf(current) !== -1) {
+                        //$this.addClass('liactive');
+                        active = 1;
+                    }
+                })
+
+                if (active == 1)
+                    $li.children().addClass('service-active');
+            })
+        }
+    </script>
+    <!-- //Header Menu Active -->
+    <!-- js -->
+    <script src="/assets/js/bootstrap.js?v=1.4"></script>
+    <!-- //js -->
+    <!-- dropdown nav -->
+    <script>
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideDown("fast");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideUp("fast");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+    </script>
+    <!-- //dropdown nav -->
+
+    <script src="/assets/js/smoothscroll.js?v=1.4"></script>
+    <!-- Smooth scrolling -->
+
+    <script type="text/javascript">
+        var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq ||
+            { widgetcode: "8c442d76156be575a55b22def5778c70924fe34e4c5bfa9cd9d934fddb5eb8f96302eefa8b083c36cbfae0ee49f23a9a", values: {}, ready: function () { } };
+        var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true;
+        s.src = "https://salesiq.zoho.com/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); d.write("<div id='zsiqwidget'></div>");
+    </script>
+    <script>
+        $(window).scroll(function () {
+            var scroll = $(window).scrollTop();
+            if (scroll >= 300) {
+                $("header").addClass("header-shadow");
+            } else {
+                $("header").removeClass("header-shadow");
+            }
+        });
+    </script>
+<div class="bg-white p-3" style="position:fixed;bottom:30px;right:30px;max-width:250px;box-shadow: 0 20px 70px 0 rgba(0, 0, 0, 0.15);border-radius:8px;">
+<p>Track the spread of Coronavirus (COVID-19) in India</p>
+<a href="http://www.wikiadd.com/corona/" class="btn btn-danger">Live Cases</a>
+</div>
+</body>
+</html>
