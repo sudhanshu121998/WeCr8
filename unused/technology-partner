@@ -216,13 +216,13 @@
                                 Services
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="/services/software-development">Software Development</a>
                                 <a class="dropdown-item" href="/services/website-development">Website Development</a>
                                 <a class="dropdown-item" href="/services/mobile-app-development">Mobile App Development</a>
                                 <a class="dropdown-item" href="/services/graphics-designing">Graphics Designing</a>
-                                <a class="dropdown-item" href="/services/software-development">Software Development</a>
                                 <a class="dropdown-item" href="/services/cloud-services">Cloud Services</a>
                                 <a class="dropdown-item" href="/services/helpline">Help Line</a>
-                                <a class="dropdown-item" href="/services"><span style="background-color: #323648;color:white;border-radius: 50px;padding: 0px 20px;font-size: 17px;width: 100%;">Explore all Services</span></a>
+                                <a class="dropdown-item" href="/services">Explore all Services</a>
                             </div>
                         </li>
                         <li class="nav-item">
@@ -677,12 +677,6 @@
     <script src="/assets/js/smoothscroll.js?v=1.4"></script>
     <!-- Smooth scrolling -->
 
-    <script type="text/javascript">
-        var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq ||
-            { widgetcode: "8c442d76156be575a55b22def5778c70924fe34e4c5bfa9cd9d934fddb5eb8f96302eefa8b083c36cbfae0ee49f23a9a", values: {}, ready: function () { } };
-        var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true;
-        s.src = "https://salesiq.zoho.com/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); d.write("<div id='zsiqwidget'></div>");
-    </script>
     <script>
         $(window).scroll(function () {
             var scroll = $(window).scrollTop();
