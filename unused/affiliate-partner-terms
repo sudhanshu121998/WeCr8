@@ -222,7 +222,7 @@
                                 <a class="dropdown-item" href="/services/graphics-designing">Graphics Designing</a>
                                 <a class="dropdown-item" href="/services/cloud-services">Cloud Services</a>
                                 <a class="dropdown-item" href="/services/helpline">Help Line</a>
-                                <a class="dropdown-item" href="/services">Explore all Services</a>
+                                <a class="dropdown-item" href="/services.html">Explore all Services</a>
                             </div>
                         </li>
                         <li class="nav-item">
@@ -317,7 +317,7 @@
                         We're providing 100% accurate and on-time services on the Website, Software, and Mobile Application Development and Design.
                         <br />
                         <br />
-                        <a href="/services">
+                        <a href="/services.html">
                             <input type="submit" value="Read more">
                         </a>
                     </p>
@@ -426,7 +426,7 @@
                             </a>
                         </li>
                         <li class="my-2 li2 li-footer">
-                            <a href="/services">
+                            <a href="/services.html">
                                 Services
                             </a>
                         </li>
